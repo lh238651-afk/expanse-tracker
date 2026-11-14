@@ -1,0 +1,8 @@
+{
+  "name": "ClearLedger — Expense Tracker",
+  "description": "Clean, modern financial dashboard for tracking income, expenses, budgets, and spending analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
